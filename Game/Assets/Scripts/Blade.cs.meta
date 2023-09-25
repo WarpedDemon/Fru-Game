@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 629dd591eec29c943be2c317973e9cb3
+timeCreated: 1503061915
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Target: {instanceID: 0}
+  - Killed: {instanceID: 0}
+  - bladeTrailPrefab: {instanceID: 0}
+  - Correct: {fileID: 1391237140181848, guid: e0f9bf67e1caa8e45af34def792f7277, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
